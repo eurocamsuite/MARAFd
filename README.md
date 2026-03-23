@@ -1,2 +1,2 @@
-Actualizacion a 22 de agosto 2025 con carpeta DOCs incluida y ecosistema-marafd.zip (sin compiladores)
-Web oficial con ecosistema-marafd-completo.zip (con compiladores) en http://marafd.net
+Actualizacion a 23 de MARZO de 2026 con carpeta DOCs incluida y ecosistema-marafd.zip (sin compiladores)
+Puede descargar desde la Web oficial 'http://marafd.net' el fichero ecosistema-marafd-completo.zip (incluyendo compiladores Python y GCC empleados en Toolkits)
